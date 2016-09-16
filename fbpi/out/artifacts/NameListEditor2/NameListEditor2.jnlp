@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="NameListEditor2.jnlp">
+  <information>
+    <title>Name List Editor 2.0</title>
+    <vendor>FBPI</vendor>
+    <description>NameListEditor2</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="NameListEditor2.jar" size="407217" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="800" main-class="fbpi.NameListEditor2"  name="NameListEditor2" />
+  <update check="background"/>
+</jnlp>
