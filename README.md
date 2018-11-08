@@ -24,7 +24,7 @@ Almost completely rebuilt using JavaFX
     - Remove Spaces - Will skip the first step and simply remove any extra spaces.
 
 - Tabby Tab: will produce a tab delimited output based on the button used. 
-    - (ex. FirstName [TAB] LastName [TAB] Title1 [TAB] Title2 [TAB])
+> (ex. FirstName [TAB] LastName [TAB] Title1 [TAB] Title2 [TAB])
 
 > Make sure that you're doing a badge setup of only one type (ex. only four tabs, or only five types), as you will get an error if you attempt to tab out a five tab list and if one of the names only has four lines. 
 
