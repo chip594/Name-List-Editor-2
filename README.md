@@ -23,7 +23,8 @@ Almost completely rebuilt using JavaFX
     - Analyze Spaces - Searches any content of the text area and notifies the user if any extra spaces are present. The program will tell the user how many extra spaces are found and asks the user if he / she would like to remove them. 
     - Remove Spaces - Will skip the first step and simply remove any extra spaces.
 
-- Tabby Tab: will produce a tab delimited output based on the button used. (ex. FirstName [TAB] LastName [TAB] Title1 [TAB] Title2 [TAB])
+- Tabby Tab: will produce a tab delimited output based on the button used. 
+    - (ex. FirstName [TAB] LastName [TAB] Title1 [TAB] Title2 [TAB])
 
 > Make sure that you're doing a badge setup of only one type (ex. only four tabs, or only five types), as you will get an error if you attempt to tab out a five tab list and if one of the names only has four lines. 
 
